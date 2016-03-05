@@ -1,0 +1,4 @@
+evernote
+python-slugify
+jinja2
+colorama

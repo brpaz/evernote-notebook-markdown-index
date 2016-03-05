@@ -1,0 +1,6 @@
+
+# {{ notebook }}
+
+{% for note in notes %}
+    {{- "* [" + note['title'] + "](" + note['link']  + ")" }}
+{% endfor %}
