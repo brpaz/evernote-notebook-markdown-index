@@ -1,4 +1,4 @@
-# Evernote Notes List Markdown Exporter
+# Evernote Notebook Markdown Index
 
 This python scripts, allows to Export a List of Notes in each of your Evernote Notebook into Markdown Format.
 
